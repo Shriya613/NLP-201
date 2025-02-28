@@ -1,0 +1,8 @@
+Part 1 implements unigram, bigram, and trigram language models using Maximum Likelihood Estimation (MLE) without smoothing. The models handle out-of-vocabulary (OOV) words by replacing tokens that occur fewer than three times with a special <UNK> token.
+Run code using:
+
+python Part1.py
+
+For part 2 use: 
+
+python Part2.py
