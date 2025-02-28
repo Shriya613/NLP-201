@@ -15,3 +15,5 @@ python Part1.py
 For part 2 use: 
 
 python Part2.py
+
+* Part 3 is not considered due to unavailability of using the asked model.
