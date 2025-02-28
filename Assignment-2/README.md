@@ -1,4 +1,4 @@
-__Assignnemt - 2__
+__Assignment - 2__
 
 The assignment provides three data files which are a subset of the One Billion Word Language Modeling Benchmark on which n-gram language modeling has to be done. You can find the task and deliverables in the A2.pdf.
 
