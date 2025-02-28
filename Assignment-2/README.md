@@ -1,6 +1,6 @@
-This assignment provides three data files which are a subset of the One Billion Word Language Modeling Benchmark.
+__Assignnemt - 2__
 
-Tasked to do n-gram language modeling.
+The assignment provides three data files which are a subset of the One Billion Word Language Modeling Benchmark on which n-gram language modeling has to be done. You can find the task and deliverables in the A2.pdf.
 
 Part 1 implements unigram, bigram, and trigram language models using Maximum Likelihood Estimation (MLE) without smoothing. The models handle out-of-vocabulary (OOV) words by replacing tokens that occur fewer than three times with a special <UNK> token.
 
