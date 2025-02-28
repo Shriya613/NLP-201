@@ -1,4 +1,4 @@
-# NLP-201 Natural Language processing I
+# NLP-201 Natural Language Processing I
 
 The course is taught by **Dr. Jeffrey Flanigan** at __The University of California - Santa Cruz__.
 
