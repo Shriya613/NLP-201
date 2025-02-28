@@ -2,7 +2,7 @@
 
 The course is taught by **Dr. Jeffrey Flanigan**, Assistant Professor (NLP MS program) at __The University of California - Santa Cruz__.
 
-The teaching assistant for the course is **Changmao Li**.
+The teaching assistant for the course is **Changmao Li**, IV Ph.D student.
 
 I have taken this course in the Fall Quarter-2024.
 
